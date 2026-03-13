@@ -3,6 +3,7 @@
     "scripts":{
         "dev": "npx http-server",
         "test":"npx jasmine",
-        "start":"npx http-server"
+        "start":"npx http-server",
+        "build": "wp-pwa build Assignment1UX308"
     }
 }
